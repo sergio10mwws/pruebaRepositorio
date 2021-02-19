@@ -2,3 +2,4 @@ Primera linea
 Línea de Paco el informático
 Línea desde rAuxiliar
 Línea conflictiva desde Máster
+Línea conflictiva desde rAuxiliar
